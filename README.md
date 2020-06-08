@@ -1,6 +1,6 @@
 # Newspaper Webpage Project
 
-This is a simple newspaper webpage project for Intro to Web Development course.
+This is a simple newspaper web page project for Intro to Web Development course.
 
 **[Try it here](http://sirdaniel711.github.io/newspaper-project/)**
 
