@@ -1,6 +1,6 @@
 # Newspaper Webpage Project
 
-This is a simple newspaper web page project for Intro to Web Development course.
+This is a simple newspaper web page project for the Frontend Masters course [Intro to Web Development](https://bthold.github.io/intro-to-web-dev-v2/).
 
 **[Try it here](http://sirdaniel711.github.io/newspaper-project/)**
 
